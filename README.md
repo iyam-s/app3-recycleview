@@ -135,3 +135,9 @@ TextView tvNis: Menampilkan Nomor Induk Siswa (NIS) dengan ukuran teks 14sp dan 
 TextView tvKelas: Menampilkan kelas siswa dengan ukuran teks 14sp dan warna abu-abu lebih terang.
 Button btnEdit: Tombol untuk mengedit data siswa.
 Button btnHapus: Tombol untuk menghapus data siswa. Warna teks disesuaikan agar kontras dengan latar.
+
+
+# Kesimpulan
+dari semua kode diatas dapat diambil kesimpulan:
+Di halaman utama, ada tombol tambah untuk memasukkan data siswa baru, kolom pencarian untuk mencari nama siswa secara cepat, dan daftar siswa yang ditampilkan lewat RecyclerView. Setiap data siswa ditampilkan dalam bentuk kartu yang memuat foto, nama, NIS, dan kelas, lengkap dengan tombol edit dan hapus di bagian bawahnya. Ketika salah satu siswa dipilih, akan muncul halaman detail yang menampilkan informasi lengkap siswa tersebut.
+Semua tampilan dibuat dengan rapi dan responsif, agar pengalaman pengguna jadi lebih nyaman dan aplikasi bisa dipakai dengan lancar di berbagai ukuran layar. Dengan kata lain, ini adalah aplikasi pendataan siswa sederhana tapi fungsional, cocok untuk digunakan di lingkungan sekolah atau pendidikan.
